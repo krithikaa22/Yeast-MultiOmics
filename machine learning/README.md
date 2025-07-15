@@ -1,0 +1,1 @@
+This folder contains the code to train machine learning models. The models are stored in **./models** folder and the statistics of the model performance is stored as a CSV in **./results**. The code uses the data from the **../data** and **../fluxomics/fluxes** folders.
